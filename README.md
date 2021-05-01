@@ -8,3 +8,6 @@
 - 💬 Languages: Java, HTML
 - 📫 Contact: **bublif#0001**
 - ⚡ School: MUNI FIT - Artifical Intelligence
+
+Follow me on Instagram: [tim.kratec](https://www.instagram.com/tim.kratec)
+[<img src="https://i.imgur.com/g8nnSXu.png">](www.pvpcraft.cz)
