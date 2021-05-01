@@ -7,4 +7,4 @@
 - 👯 Owner of [PvPCraft.cz](https://pvpcraft.cz/)
 - 💬 Languages: Java, HTML
 - 📫 Contact: **bublif#0001**
-- ⚡ Fun fact: ...
+- ⚡ School: MUNI FIT - Artifical Intelligence
