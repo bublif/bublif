@@ -1,7 +1,6 @@
-[<img src="https://i.imgur.com/jhPPOMl.png">](www.pvpcraft.cz)
-
 ### I´m bublif. Hello there! 👋
 
+[<img src="https://i.imgur.com/jhPPOMl.png">](www.pvpcraft.cz)
 
 # Junior Developer
 - 🔭 I’m currently working on **Project EveryWhere** *,,Smart Minecraft Server System"*
