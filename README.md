@@ -11,4 +11,4 @@
 
 Follow me on Instagram: [tim.kratec](https://www.instagram.com/tim.kratec)
 
-[<img src="https://i.imgur.com/g8nnSXu.png">](www.pvpcraft.cz)
+[<img src="https://i.imgur.com/nnOgy9t.png">](www.pvpcraft.cz)
