@@ -1,4 +1,4 @@
-[<img src="https://i.imgur.com/ulJ2m8A.png">](www.pvpcraft.cz)
+[<img src="https://i.imgur.com/jhPPOMl.png">](www.pvpcraft.cz)
 
 ### I´m bublif. Hello there! 👋
 
