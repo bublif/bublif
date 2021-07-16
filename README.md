@@ -8,7 +8,7 @@
 - 👯 Owner of [PvPCraft.cz](https://pvpcraft.cz/)
 - 💬 Languages: Java beginner, HTML, Python beginner
 - 📫 Contact: **bublif#0001**
-- ⚡ School: MUNI FIT - Artifical Intelligence
+- ⚡ School: VUT FIT 
 
 Follow me on Instagram: [tim.kratec](https://www.instagram.com/tim.kratec)
 
