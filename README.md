@@ -3,10 +3,8 @@
 [<img src="https://i.imgur.com/jhPPOMl.png">](www.pvpcraft.cz)
 
 # Junior Developer
-- 🔭 I’m currently working on **Project EveryWhere** *,,Smart Minecraft Server System"*
-- 🌱 I’m currently learning **Java**
 - 👯 Owner of [PvPCraft.cz](https://pvpcraft.cz/)
-- 💬 Languages: Java beginner, HTML, Python beginner
+- 💬 Languages: Java, C
 - 📫 Contact: **bublif#0001**
 - ⚡ School: VUT FIT 
 
